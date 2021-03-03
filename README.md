@@ -1,4 +1,4 @@
-# Planner_Bot
+# Predictor_BOT
 Easy Bot which predict your salary in depend of your education and experience.
 
 So, for the start you must tap on a command "/start" on Telegram. 
