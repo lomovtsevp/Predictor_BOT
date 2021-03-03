@@ -1,5 +1,9 @@
-# Salary_predictor
+# Salary predictor
 Easy Bot which predict your salary in depend of your education and experience.
+
+IN TELEGRAM IT NAMES 'Salary Predictor'
+
+UPD: IN THE MOMENT BOT ISN'T WORKING CZ I TERMINATED THE SCRIPT.
 
 So, for the start you must tap on a command "/start" on Telegram. 
 
